@@ -1,8 +1,8 @@
 {
   "name": "@geekcash/insight-api",
-  "description": "A Dash blockchain REST and web socket API service for GeekCash Node.",
-  "version": "1.0.0",
-  "repository": "git://github.com/dashevo/insight-api.git",
+  "description": "A GeekCash blockchain REST and web socket API service for GeekCash Node.",
+  "version": "1.0.1",
+  "repository": "git://github.com/geekcash/insight-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -46,10 +46,10 @@
     "insight",
     "insight api",
     "blockchain",
-    "dash api",
+    "geekcash api",
     "blockchain api",
     "json",
-    "bitcore-dash",
+    "geekcash-node",
     "geekcash"
   ],
   "engines": {
@@ -62,7 +62,7 @@
   "geekcashNode": "lib",
   "dependencies": {
     "async": "*",
-    "@geekcash/geekcash-lib": "https://github.com/GeekCash/geekcash-lib.git",
+    "@geekcash/geekcash-lib": "^1.0.1",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "=4.17.1",

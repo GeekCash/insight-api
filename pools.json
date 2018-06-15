@@ -2,7 +2,7 @@
 
   {
     "poolName":"Node Stratum Pool",
-    "url":"https://github.com/zone117x/node-stratum-pool",
+    "url":"https://github.com/GeekCash/node-open-mining-portal",
     "searchStrings":[
       "/nodeStratum/"
     ]
